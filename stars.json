@@ -1,15 +1,15 @@
 [
   {
     "full_name": "ghc/ghc",
-    "stargazers_count": 2851,
+    "stargazers_count": 2854,
     "open_issues_count": 7,
-    "forks_count": 698
+    "forks_count": 699
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 19374,
-    "open_issues_count": 20319,
-    "forks_count": 7261
+    "stargazers_count": 19427,
+    "open_issues_count": 20355,
+    "forks_count": 7275
   },
   {
     "full_name": "virtual-labs/exp-context-switch-iiith",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "racket/racket",
-    "stargazers_count": 4504,
-    "open_issues_count": 530,
-    "forks_count": 635
+    "stargazers_count": 4506,
+    "open_issues_count": 529,
+    "forks_count": 636
   },
   {
     "full_name": "llvm-mirror/llvm",
@@ -31,87 +31,87 @@
   },
   {
     "full_name": "UniMath/UniMath",
-    "stargazers_count": 831,
-    "open_issues_count": 169,
+    "stargazers_count": 832,
+    "open_issues_count": 170,
     "forks_count": 153
   },
   {
     "full_name": "HypothesisWorks/hypothesis",
-    "stargazers_count": 6671,
+    "stargazers_count": 6675,
     "open_issues_count": 48,
-    "forks_count": 560
+    "forks_count": 561
   },
   {
     "full_name": "nasa/Transform-to-Open-Science",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 20,
-    "forks_count": 98
+    "forks_count": 99
   },
   {
     "full_name": "camping/camping",
     "stargazers_count": 783,
     "open_issues_count": 30,
-    "forks_count": 90
+    "forks_count": 92
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 31647,
-    "open_issues_count": 31,
-    "forks_count": 2779
+    "stargazers_count": 31688,
+    "open_issues_count": 32,
+    "forks_count": 2784
   },
   {
     "full_name": "pyinvoke/invoke",
-    "stargazers_count": 3922,
-    "open_issues_count": 363,
-    "forks_count": 346
+    "stargazers_count": 3934,
+    "open_issues_count": 360,
+    "forks_count": 347
   },
   {
     "full_name": "pypa/pip",
-    "stargazers_count": 8716,
-    "open_issues_count": 1004,
-    "forks_count": 2918
+    "stargazers_count": 8720,
+    "open_issues_count": 1007,
+    "forks_count": 2923
   },
   {
     "full_name": "pypa/virtualenv",
-    "stargazers_count": 4449,
-    "open_issues_count": 76,
-    "forks_count": 993
+    "stargazers_count": 4448,
+    "open_issues_count": 77,
+    "forks_count": 994
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 30315,
-    "open_issues_count": 149,
-    "forks_count": 1354
+    "stargazers_count": 30331,
+    "open_issues_count": 148,
+    "forks_count": 1355
   },
   {
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 13841,
+    "stargazers_count": 13859,
     "open_issues_count": 6,
-    "forks_count": 1532
+    "forks_count": 1536
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 70106,
-    "open_issues_count": 142,
-    "forks_count": 29127
+    "stargazers_count": 70161,
+    "open_issues_count": 144,
+    "forks_count": 29147
   },
   {
     "full_name": "orangeduck/BuildYourOwnLisp",
-    "stargazers_count": 2645,
+    "stargazers_count": 2670,
     "open_issues_count": 20,
-    "forks_count": 377
+    "forks_count": 378
   },
   {
     "full_name": "rossant/awesome-math",
-    "stargazers_count": 7069,
+    "stargazers_count": 7080,
     "open_issues_count": 8,
-    "forks_count": 850
+    "forks_count": 854
   },
   {
     "full_name": "tensorflow/quantum",
-    "stargazers_count": 1567,
+    "stargazers_count": 1570,
     "open_issues_count": 123,
-    "forks_count": 470
+    "forks_count": 473
   },
   {
     "full_name": "SwapneelM/awesome-particle-physics-for-non-physicists",
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "orangeduck/mpc",
-    "stargazers_count": 2456,
+    "stargazers_count": 2469,
     "open_issues_count": 30,
-    "forks_count": 284
+    "forks_count": 286
   },
   {
     "full_name": "coq/coq",
-    "stargazers_count": 4178,
-    "open_issues_count": 2769,
+    "stargazers_count": 4183,
+    "open_issues_count": 2761,
     "forks_count": 603
   },
   {
     "full_name": "lua/lua",
-    "stargazers_count": 6856,
+    "stargazers_count": 6868,
     "open_issues_count": 0,
-    "forks_count": 1405
+    "forks_count": 1406
   },
   {
     "full_name": "spaceship-prompt/spaceship-prompt",
-    "stargazers_count": 18229,
+    "stargazers_count": 18239,
     "open_issues_count": 101,
-    "forks_count": 956
+    "forks_count": 954
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 277446,
-    "open_issues_count": 40,
-    "forks_count": 54923
+    "stargazers_count": 277749,
+    "open_issues_count": 41,
+    "forks_count": 54963
   },
   {
     "full_name": "learningequality/kolibri",
     "stargazers_count": 592,
-    "open_issues_count": 463,
+    "open_issues_count": 480,
     "forks_count": 496
   },
   {
     "full_name": "faster-cpython/ideas",
-    "stargazers_count": 1423,
+    "stargazers_count": 1424,
     "open_issues_count": 104,
     "forks_count": 49
   },
   {
     "full_name": "openssl/openssl",
-    "stargazers_count": 21557,
-    "open_issues_count": 2138,
-    "forks_count": 9127
+    "stargazers_count": 21572,
+    "open_issues_count": 2127,
+    "forks_count": 9133
   },
   {
     "full_name": "wasp-lang/wasp",
-    "stargazers_count": 2711,
-    "open_issues_count": 266,
-    "forks_count": 124
+    "stargazers_count": 2733,
+    "open_issues_count": 269,
+    "forks_count": 125
   }
 ]
