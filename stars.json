@@ -7,21 +7,21 @@
   },
   {
     "full_name": "JetBrains/JetBrainsRuntime",
-    "stargazers_count": 1965,
-    "open_issues_count": 122,
+    "stargazers_count": 1967,
+    "open_issues_count": 121,
     "forks_count": 270
   },
   {
     "full_name": "JetBrains/intellij-platform-plugin-template",
-    "stargazers_count": 3757,
-    "open_issues_count": 27,
+    "stargazers_count": 3758,
+    "open_issues_count": 28,
     "forks_count": 818
   },
   {
     "full_name": "openjdk/jdk",
-    "stargazers_count": 23356,
-    "open_issues_count": 403,
-    "forks_count": 6450
+    "stargazers_count": 23364,
+    "open_issues_count": 402,
+    "forks_count": 6456
   },
   {
     "full_name": "tanvimoharir/crdts-tlaplus",
@@ -32,8 +32,8 @@
   {
     "full_name": "tlaplus/tlaplus",
     "stargazers_count": 3058,
-    "open_issues_count": 239,
-    "forks_count": 264
+    "open_issues_count": 240,
+    "forks_count": 265
   },
   {
     "full_name": "tanvimoharir/hashAlpha",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "multica-ai/andrej-karpathy-skills",
-    "stargazers_count": 213801,
+    "stargazers_count": 214550,
     "open_issues_count": 130,
-    "forks_count": 21632
+    "forks_count": 21691
   },
   {
     "full_name": "redhat-developer/lsp4ij",
-    "stargazers_count": 343,
-    "open_issues_count": 148,
-    "forks_count": 112
+    "stargazers_count": 344,
+    "open_issues_count": 149,
+    "forks_count": 114
   },
   {
     "full_name": "tanvimoharir/masters-thesis",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "JetBrains/intellij-community",
-    "stargazers_count": 20565,
-    "open_issues_count": 156,
-    "forks_count": 6063
+    "stargazers_count": 20583,
+    "open_issues_count": 154,
+    "forks_count": 6071
   },
   {
     "full_name": "ligurio/practical-fm",
@@ -93,13 +93,13 @@
     "full_name": "ghc/ghc",
     "stargazers_count": 3273,
     "open_issues_count": 9,
-    "forks_count": 737
+    "forks_count": 739
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 40528,
-    "open_issues_count": 39209,
-    "forks_count": 18701
+    "stargazers_count": 40601,
+    "open_issues_count": 39388,
+    "forks_count": 18744
   },
   {
     "full_name": "virtual-labs/exp-process-life-cycle-iiith",
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "racket/racket",
-    "stargazers_count": 5210,
+    "stargazers_count": 5213,
     "open_issues_count": 608,
     "forks_count": 698
   },
   {
     "full_name": "llvm-mirror/llvm",
-    "stargazers_count": 4576,
+    "stargazers_count": 4577,
     "open_issues_count": 2,
     "forks_count": 2063
   },
   {
     "full_name": "UniMath/UniMath",
-    "stargazers_count": 1018,
+    "stargazers_count": 1017,
     "open_issues_count": 151,
     "forks_count": 187
   },
   {
     "full_name": "HypothesisWorks/hypothesis",
-    "stargazers_count": 8979,
-    "open_issues_count": 43,
-    "forks_count": 673
+    "stargazers_count": 9000,
+    "open_issues_count": 44,
+    "forks_count": 676
   },
   {
     "full_name": "camping/camping",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 45103,
-    "open_issues_count": 55,
-    "forks_count": 3274
+    "stargazers_count": 45102,
+    "open_issues_count": 56,
+    "forks_count": 3271
   },
   {
     "full_name": "pyinvoke/invoke",
-    "stargazers_count": 4777,
-    "open_issues_count": 462,
-    "forks_count": 411
+    "stargazers_count": 4778,
+    "open_issues_count": 467,
+    "forks_count": 414
   },
   {
     "full_name": "pypa/pip",
     "stargazers_count": 10288,
-    "open_issues_count": 956,
-    "forks_count": 3377
+    "open_issues_count": 957,
+    "forks_count": 3383
   },
   {
     "full_name": "pypa/virtualenv",
-    "stargazers_count": 5048,
-    "open_issues_count": 2,
+    "stargazers_count": 5053,
+    "open_issues_count": 8,
     "forks_count": 1116
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 33897,
-    "open_issues_count": 256,
+    "stargazers_count": 33898,
+    "open_issues_count": 257,
     "forks_count": 1709
   },
   {
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 16757,
+    "stargazers_count": 16758,
     "open_issues_count": 7,
-    "forks_count": 1741
+    "forks_count": 1740
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 91131,
-    "open_issues_count": 502,
-    "forks_count": 34657
+    "stargazers_count": 91150,
+    "open_issues_count": 505,
+    "forks_count": 35000
   }
 ]
